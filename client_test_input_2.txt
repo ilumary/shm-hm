@@ -1,0 +1,6 @@
+I 1 hello from client 1
+I 2 second value
+I 3 \x00\x01\x02\xff binary bytes
+I 4 this one gets deleted
+I 5 this one gets overwritten
+G 5

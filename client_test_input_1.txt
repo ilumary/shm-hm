@@ -1,0 +1,8 @@
+I 1 data
+I 2 something
+G 2
+D 2
+G 2
+I 3 \x01\x02 raw \\ backslash \xff
+G 3
+B 99
